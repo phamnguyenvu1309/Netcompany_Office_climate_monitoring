@@ -1,0 +1,17 @@
+[{
+        "display_name": "Dashboard",
+        "route": "/dashboard",
+        "icon": "bx bx-category-alt"
+    },
+    {
+        "display_name": "Configuration",
+        "route": "/configuration",
+        "icon": "bx bx-cog"
+
+    },
+    {
+        "display_name": "Profile",
+        "route": "/settings",
+        "icon": "bx bx-user-pin"
+    }
+]
